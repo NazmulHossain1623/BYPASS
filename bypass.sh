@@ -121,7 +121,7 @@ _____________________________________________________
 
 echo " FOLLOW MY FACEBOOK ACCOUNT 🔔 " | lolcat
 
-xdg-open https://www.facebook.com/NazmulHossain16239
+xdg-open https://www.facebook.com/FINALLY.BAAP.ER.KHOJ.PAILA
 
 echo ""
 
