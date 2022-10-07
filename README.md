@@ -36,7 +36,7 @@ git clone https://github.com/NazmulHossain1623/BYPASS.git
 
  cd BYPASS
 
- sh BYPASS.sh
+ sh bypass.sh
 
 ```
 
